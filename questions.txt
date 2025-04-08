@@ -1,0 +1,83 @@
+1|What does LIFO stand for?|Last In First Out|Loop In Function Out|Last Input Fast Output|Long Interval Fixed Order|1|Think about how stacks work.
+1|What does CPU stand for?|Central Processing Unit|Core Programming Utility|Computer Personal Unit|Central Personal Unit|1|It's the brain of your computer.
+1|What is the capital of Romania?|Bucharest|Cluj|Timisoara|Iasi|1|It's the largest city in Romania.
+1|What is the capital of France?|Berlin|London|Paris|Madrid|3|It's known as the city of love.
+1|What is the color of the sky on a clear day?|Red|Blue|Green|Gray|2|Look up on a sunny day.
+1|Which animal says "meow"?|Dog|Cow|Cat|Horse|3|It purrs and likes boxes.
+1|Which fruit is red and often used in pies?|Banana|Apple|Pear|Grapes|2|Think of the classic "teacher’s gift".
+1|What do you use to brush your teeth?|Comb|Spoon|Toothbrush|Towel|3|Goes with toothpaste.
+1|What is 2 + 2?|3|4|5|6|2|It’s double of two.
+1|What do you wear on your feet?|Gloves|Blouses|Hats|Shoes|4|You tie the laces.
+1|Which vehicle flies in the sky?|Car|Train|Boat|Airplane|4|You board it at an airport.
+1|What color are strawberries?|Blue|Yellow|Red|Green|3|Same as hearts on Valentine’s Day.
+1|Which month comes after December?|January|February|March|April|1|It starts a new year.
+1|Which animal is known as man’s best friend?|Cat|Dog|Parrot|Hamster|2|It barks and wags its tail.
+1|What is the longest river in Europe?|Danube|Volga|Rhine|Thames|2|It flows mainly in Russia.
+1|What part of the plant does photosynthesis?|Leaf|Root|Stem|Flower|1|It's the green part of most plants.
+1|What color are bananas when ripe?|Red|Green|Yellow|Blue|3|Think of a Minion’s favorite snack.
+1|How many legs does a spider have?|6|8|10|12|2|It has more than an insect.
+1|Which season comes after summer?|Spring|Autumn|Winter|Monsoon|2|Leaves start falling.
+1|Which shape has three sides?|Square|Circle|Triangle|Hexagon|3|Think of a yield traffic sign.
+1|How many days are in a leap year?|365|366|364|367|2|It's one more than a regular year.
+1|How many continents are there?|5|6|7|8|3|Think of the classic school map.
+1|In which year did Romania join the European Union?|2005|2006|2007|2008|3|It was one year after Bulgaria applied.
+1|What do bees produce?|Honey|Milk|Butter|Sugar|1|They collect nectar to make it.
+1|How many days are in a week?|5|6|7|8|3|It's the number of days from Monday to Sunday.
+2|How many bones are in the human body?|204|206|208|210|2|It's slightly more than 205.
+2|What country invented sushi?|China|Japan|Korea|Thailand|2|It's an island nation in Asia.
+2|Which country is famous for the Great Wall?|India|China|Egypt|Japan|2|It can be seen from space.
+2|What gas do plants absorb from the air?|Oxygen|Carbon Dioxide|Nitrogen|Helium|2|It's what we breathe out.
+2|Who painted the Mona Lisa?|Vincent Van Gogh|Pablo Picasso|Leonardo da Vinci|Claude Monet|3|He was also an inventor.
+2|Which instrument has black and white keys?|Guitar|Piano|Violin|Flute|2|Used by composers like Mozart.
+2|What is H2O commonly known as?|Salt|Oxygen|Water|Acid|3|You drink it every day.
+2|Which planet is known as the Red Planet?|Earth|Mars|Jupiter|Venus|2|It’s the fourth planet from the sun.
+2|Who wrote 'Romeo and Juliet'?|Mark Twain|William Shakespeare|Charles Dickens|Jane Austen|2|He’s a famous English playwright.
+2|What is the largest ocean on Earth?|Atlantic Ocean|Indian Ocean|Arctic Ocean|Pacific Ocean|4|It’s on the west coast of the U.S.
+2|How many sides does a hexagon have?|5|6|7|8|2|The prefix "hex" is a clue.
+2|Which metal is liquid at room temperature?|Iron|Mercury|Gold|Aluminum|2|It’s used in old thermometers.
+2|What is the tallest animal in the world?|Elephant|Lion|Giraffe|Horse|3|It has a very long neck.
+2|Which planet is closest to the Sun?|Earth|Venus|Mars|Mercury|4|It's also the smallest planet.
+2|Which part of the plant conducts photosynthesis?|Root|Stem|Leaf|Flower|3|It’s usually green and flat.
+2|What is the largest internal organ in the human body?|Lung|Heart|Liver|Brain|3|It helps filter toxins.
+2|What is the freezing point of water in Celsius?|0|10|32|100|1|Same as the start of the temperature scale.
+2|Who was the first person to walk on the Moon?|Yuri Gagarin|Buzz Aldrin|Neil Armstrong|Michael Collins|3|“One small step for man...”
+2|Which blood type is known as the universal donor?|A|B|AB|O|4|It can give to anyone.
+2|Which country has the largest population in the world?|India|USA|Indonesia|China|4|It’s home to the Great Wall.
+2|Who discovered insulin?|Banting and Best|Pasteur|Einstein|Curie|1|These two Canadians saved millions of lives.
+2|What is the rarest blood type in humans?|O+|AB-|B-|A-|2|It's both rare and universal receiver.
+2|What is the chemical symbol for gold?|Au|Ag|Pb|Fe|1|From the Latin word "Aurum".
+2|Which planet has the most moons?|Mars|Saturn|Jupiter|Uranus|2|It recently overtook Jupiter in moon count.
+2|What is the first European city with electric streetlights?|London|Paris|Timisoara|Berlin|3|It's a city in western Romania.
+2|What was the first Disney movie?|Snow White|Cinderella|Pinocchio|Bambi|1|Released in 1937.
+2|What is the largest desert in the world?|Sahara|Gobi|Antarctica|Kalahari|3|It’s made of ice, not sand!
+2|How many ghosts chase Pac-Man at the start of each game?|2|3|4|5|3|Think of Blinky, Pinky, Inky, and Clyde.
+3|Who founded the Olympic games?|Greeks|Romans|Persians|Egyptians|1|They did it in Olympia.
+3|Which musical features the songs of the band 'Queen'?|Mamma Mia|We Will Rock You|Rock of Ages|Bohemian Rhapsody|2|It has the same name as one of their songs.
+3|Which country does NOT have a Mediterranean coastline?|Spain|France|Portugal|Italy|3|It's on the Atlantic Ocean only.
+3|In which country was Che Guevara born?|Argentina|Cuba|Mexico|Venezuela|1|Same as Messi.
+3|Alexander Graham Bell was born in which capital city?|London|Edinburgh|Washington|Ottawa|2|Scottish capital.
+3|What is the most viewed TV show of all time?|Friends|Game of Thrones|M*A*S*H|Breaking Bad|3|Its final episode aired in 1983.
+3|What is the name of the algorithm used to find the shortest path?|Dijkstra|A*|Bellman-Ford|Floyd-Warshall|1|Named after a Dutch computer scientist.
+3|What element is the lightest noble gas?|Neon|Argon|Helium|Xenon|3|Used in balloons.
+3|What is the formula for the force of friction?|F = ma|F = μN|F = mg|F = mv|2|It involves the normal force.
+3|Who developed the theory of relativity?|Isaac Newton|Albert Einstein|Nikola Tesla|Stephen Hawking|2|Think of E=mc².
+3|In what year did World War II end?|1939|1942|1945|1948|3|It was after D-Day.
+3|What is the powerhouse of the cell?|Nucleus|Mitochondria|Ribosome|Chloroplast|2|It produces energy.
+3|Which language has the most native speakers?|English|Hindi|Mandarin Chinese|Spanish|3|Spoken in China.
+3|What is the formula for the volume of a sphere?|4/3πr³|πr²h|2πr|1/3πr²h|1|Involves radius cubed.
+3|What is the square root of 144?|10|11|12|13|3|It's a dozen.
+3|Which element has the chemical symbol 'Au'?|Silver|Oxygen|Gold|Argon|3|It’s a precious metal.
+3|What year did the Titanic sink?|1910|1912|1914|1916|2|It was two years before World War I.
+3|What is the name of the theoretical boundary around a black hole from which nothing can escape?|Singularity|Event Horizon|Photon Sphere|Gravitational Lens|2|It’s the point of no return.
+3|Which ancient civilization built the city of Machu Picchu?|Aztec|Maya|Inca|Olmec|3|It’s located in Peru.
+3|In what year was the United Nations founded?|1918|1939|1945|1955|3|Just after WWII ended.
+3|What is the capital of Kazakhstan?|Astana|Tashkent|Bishkek|Almaty|1|It was renamed in 2019.
+3|Which particle carries the strong nuclear force?|Electron|Photon|Gluon|Neutrino|3|Its name sounds sticky.
+3|Who composed the opera “The Magic Flute”?|Beethoven|Bach|Mozart|Tchaikovsky|3|He died young in Vienna.
+3|What is the rarest blood type in the world?|A-|O-|AB-|Rh-null|4|Only about 50 people on Earth have it.
+3|Which number is the only even prime number?|1|2|4|6|2|It’s the smallest prime, too.
+3|Which mathematician invented calculus independently from Newton?|Leibniz|Euler|Gauss|Descartes|1|There was a big dispute over it.
+3|Which element on the periodic table has the highest atomic number that occurs naturally?|Uranium|Plutonium|Radon|Francium|1|Used in nuclear reactors.
+3|What is the name of the paradox where a time traveler kills their own grandfather?|Bootstrap Paradox|Grandfather Paradox|Temporal Loop|Time Dissonance|2|It's named after a family member.
+3|Which number is known as the Hardy-Ramanujan number, famous for being the smallest number expressible as the sum of two cubes in two different ways?|1728|4104|1729|2025|3|Ramanujan mentioned it in a taxi ride.
+3|In quantum mechanics, which principle states that certain pairs of physical properties cannot both be known to arbitrary precision?|Pauli Exclusion Principle|Heisenberg Uncertainty Principle|Schrödinger's Equation|Quantum Superposition|2|It deals with uncertainty in position and momentum.
